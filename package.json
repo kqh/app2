@@ -16,7 +16,8 @@
     "@github-test/base": "^1.4.4"
   },
   "devDependencies": {
-    "@miaoxing/dev": "^6.3.4"
+    "@miaoxing/dev": "^6.3.4",
+    "replace-pkg-dep": "^0.4.4"
   },
   "ciDependencies": {
     "@github-test/base": "kqh/base"
